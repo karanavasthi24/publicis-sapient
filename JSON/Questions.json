@@ -1,0 +1,22 @@
+{ "questions": [
+{
+"question" : "Who is the president of India?",
+"options" : {
+"A" : "Donald Trump",
+"B" : "Ramnath Kovind",
+"C" : "Narendra Modi",
+"D" : "None",
+},
+"ans" : "B",
+},{
+"question" : "Who is the president of USA?",
+"options" : {
+"A" : "Donald Trump",
+"B" : "Ramnath Kovind",
+"C" : "Narendra Modi",
+"D" : "None",
+},
+"ans" : "A",
+}
+]
+}
